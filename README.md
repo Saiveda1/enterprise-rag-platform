@@ -25,7 +25,7 @@ fully seeded, so `make all` reproduces the numbers below bit-for-bit.
 
 - Prepared for **Sai Veda**
 - Publishing account: **Nikeshk834**
-- Full handoff note: [`PROJECT_DOCUMENT.md`](./PROJECT_DOCUMENT.md)
+- Full handoff note: [`PROJECT_DOCUMENT.pdf`](./PROJECT_DOCUMENT.pdf)
 
 ## Screenshots
 
